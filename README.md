@@ -2,7 +2,6 @@
 
 We will introduce:
 
-- Git
 - Java SDK
 - Gradle
 - JUnit
