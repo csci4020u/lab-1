@@ -4,7 +4,7 @@ We will introduce:
 
 - Git
 - Java SDK
-- Gradle
+- Gradle: **Ensure you install the latest (version 5.1)**
 - JUnit
 
 # Java
